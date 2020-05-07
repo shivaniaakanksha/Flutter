@@ -21,7 +21,6 @@ flutter:
 
   assets:
   - images/
-
   fonts:
   - family: Spartan MB
     fonts:
